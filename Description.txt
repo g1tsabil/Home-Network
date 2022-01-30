@@ -1,0 +1,5 @@
+A logical topology of a home network which configures DHCP for every end-device
+and allows them to control IoT devices. The front door has an alert system for
+when movement is detected while it's locked. The security camera is then activated alongside 
+an alarm embedded in the dining room. The alarm also activates when the carbon monoxide detector 
+located in the garage senses excess levels of carbon monoxide. 
